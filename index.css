@@ -1,0 +1,26 @@
+body {
+    text-align:center;
+    background-color: rgb(54, 73, 16);
+    font-size:56px;
+    font-weight:bold;
+}
+
+#blackjack {
+    color:rgb(212, 212, 35);
+    font-size:56px;
+}
+
+body p {
+    color:white;
+    font-size:36px;
+}
+
+button {
+    color:rgb(54, 73, 16);
+    font-weight:bold;
+    padding:4px;
+    font-size:32px;
+    background-color:rgb(212, 212, 35);
+    border:none;
+    border-radius:2px;
+}
