@@ -24,3 +24,9 @@ button {
     border:none;
     border-radius:2px;
 }
+
+#new-game {
+    display:block;
+    margin:auto;
+    margin-top:20px;
+}
